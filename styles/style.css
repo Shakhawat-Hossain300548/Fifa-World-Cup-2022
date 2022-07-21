@@ -121,15 +121,14 @@ body{
     grid-template-columns: repeat(3,1fr);  
     align-items:center; 
 }
-.blog{
+.blog {
     width: 400px;
     height: 400px;
     margin-bottom: 20px;
     border: 2px solid darkcyan;
     border-radius: 10px;
     grid-column-gap: 15px;
-    grid-row-gap: 15px;
-    
+    grid-row-gap: 20px;
 }
 .blog img{
     width: 400px;
